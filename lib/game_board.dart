@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:rdjchess/components/dead_piece.dart';
 import 'package:rdjchess/components/piece.dart';
